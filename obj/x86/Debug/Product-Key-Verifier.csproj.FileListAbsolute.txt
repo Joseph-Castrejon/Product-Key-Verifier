@@ -1,0 +1,5 @@
+/home/joe/Product-Key-Verifier/Product-Key-Verifier/bin/Debug/Product-Key-Verifier.exe
+/home/joe/Product-Key-Verifier/Product-Key-Verifier/bin/Debug/Product-Key-Verifier.pdb
+/home/joe/Product-Key-Verifier/Product-Key-Verifier/obj/x86/Debug/Product-Key-Verifier.csproj.CoreCompileInputs.cache
+/home/joe/Product-Key-Verifier/Product-Key-Verifier/obj/x86/Debug/Product-Key-Verifier.exe
+/home/joe/Product-Key-Verifier/Product-Key-Verifier/obj/x86/Debug/Product-Key-Verifier.pdb
